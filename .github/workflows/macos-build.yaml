@@ -72,8 +72,8 @@ jobs:
           --window-size 600 400 \
           --icon-size 100 \
           --app-drop-link 450 200 \
-          "$APP_PATH" \
-          "PSGLotto.dmg"
+         "PSGLotto.dmg" \
+         "$APP_PATH"
 
     # ✅ 11. Upload artifact
     - name: Upload DMG
