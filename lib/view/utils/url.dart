@@ -12,5 +12,5 @@ class UrlSet {
 
   static String superJacpotLIVE = 'http://playsuperjackpot.com/config.json';
 
-  static String configurl = superJacpotLIVE;
+  static String configurl = psgLottoDEV;
 }
